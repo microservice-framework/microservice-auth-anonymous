@@ -1,0 +1,13 @@
+[
+  {
+    "service": "example",
+    "methods": {
+      "get": true,
+      "put": false,
+      "post": false,
+      "delete": false,
+      "search": true,
+      "options": true
+    }
+  }
+]

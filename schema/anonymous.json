@@ -1,0 +1,10 @@
+{
+  "id": "/Auth",
+  "type": "object",
+  "properties": {
+    "ttl": {
+      "type": "number",
+      "description": "TTL in seconds for this session."
+    }
+  }
+}
